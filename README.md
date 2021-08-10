@@ -1,3 +1,17 @@
+# Changes in this fork
+
+This forked repository is for a personal research work.   
+The code changes have been done in purpose of enabling LIO-SAM in KITTI dataset.
+
+## Changes
+
+- Parameter changed in config/params.yaml
+
+Check *history* on the right top corner for detailed modifications.   
+   
+---
+   
+   
 # LIO-SAM
 
 **A real-time lidar-inertial odometry package. We strongly recommend the users read this document thoroughly and test the package with the provided dataset first. A video of the demonstration of the method can be found on [YouTube](https://www.youtube.com/watch?v=A0H8CoORZJU).**
